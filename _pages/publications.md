@@ -3,7 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+    image: pubblication_header.jpg
+    caption: "Lessinia, al tramonto"
 ---
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
