@@ -12,11 +12,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/
 
-  - title: "Outreach"
-    url: /outreach/    
+  - title: "Teaching and Outreach"
+    url: /teachANDoutreach/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
