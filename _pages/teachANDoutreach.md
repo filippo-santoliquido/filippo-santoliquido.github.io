@@ -12,13 +12,14 @@ header:
 
 * Nov. 2021, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++ (20 h/yr)
 
-* Jun. 2021, **Laboratory of Computational Astrophysics**. I tutored a group of three students that completed a project using [```[cosmoRate]```](/software/) (12 h/yr)
+* Jun. 2021, **Laboratory of Computational Astrophysics**. I tutored a group of three students that completed a project using [cosmo$\mathcal{R}$ate](/software/){: .btn--research} (12 h/yr)
 
 * Nov. 2020, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++ (20 h/yr)
 
 ## Mentoring
 
-* Mar. 2022, **Co-supervisor of Lorenzo Merli's master thesis**. Lorenzo looked at the evolution of the properties of Population III stars that can generate merging binary black holes at high redshift. At this [link](https://www.youtube.com/watch?v=aA_X20AdT0s) you can find the full recording. 
+* Mar. 2022, **Co-supervisor of Lorenzo Merli's master thesis**. Lorenzo looked at the evolution of the properties of Population III stars that can generate merging binary black holes at high redshift. 
+
 
 * Dec. 2021, **Co-supervisor of Roberta Rufolo's master thesis**. Roberta explored the impact of various prescritpions modelling the spin distributions of binary black holes detectable with LIGO-Virgo inteferometers. My main task was to guide her through the various functionalities of our codes.
 

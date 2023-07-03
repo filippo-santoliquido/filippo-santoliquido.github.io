@@ -15,15 +15,15 @@ Welcome! I am an astrophycist studying the evolution of gravitational-wave sourc
 
 In this website, you can find:
 
-* A summary of my [Research](/research/){: .btn--research} activties that led to these [Publications](/publications/).
+* A summary of my [Research](/research/){: .btn--research} activties that led to these [Publications](/publications/){: .btn--research}.
 
-* The [Software](/software/) I have developed for my research.
+* The [Software](/software/){: .btn--research} I have developed for my research.
 
-* A list of [Talks](/talks/) 
+* A list of [Talks](/talks/){: .btn--research} 
 
-* [Teaching and Outreach](/teachANDoutreach/) activities
+* [Teaching and Outreach](/teachANDoutreach/){: .btn--research} activities
 
-* An updated version of my [CV](/cv/).
+* An updated version of my [CV](/cv/){: .btn--research}.
 
 ### My journey in brief
 
