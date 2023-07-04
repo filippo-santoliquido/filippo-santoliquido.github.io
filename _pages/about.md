@@ -11,6 +11,16 @@ header:
     caption: "Tramonto dal rifugio Gniffetti (3 647 m)"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E0BD4ZVW2M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E0BD4ZVW2M');
+</script>
+
 Welcome! I am an astrophysicist studying the evolution of gravitational-wave sources across cosmic time. I am a researcher at the [Gran Sasso Sience Institue (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
 
 In this website, you can find:
