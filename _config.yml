@@ -93,7 +93,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=6K0JtkMAAAAJ&hl=en&oi=ao"
   email            : "filippo DOT santoliquido AT unipd DOT it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  gitlab	   : "https://gitlab.com/users/Filippo.santoliquido/projects"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,6 +101,7 @@ author:
   facebook         :
   foursquare       :
   github           : "filippo-santoliquido"
+  gitlab           : "Filippo.santoliquido"
   google_plus      :
   keybase          :
   instagram        :

@@ -34,7 +34,8 @@ Currently I am a postdoctoral fellow in Marica Branchesi’s group at [Gran Sass
 
 I have defended my PhD at the University of Padova (Italy), where I have worked under the supervision of [Michela Mapelli](http://web.pd.astro.it/mapelli/) in the [DEMOBLACK](https://demoblack.com/) group. At this [link](/assets/images/PhD_Thesis_Santoliquido_R.pdf) you can download my PhD Thesis and [here](/assets/images/PhD_defence.pdf) you can find the slides I used for my defence.
 
-Before that I earned my [master thesis](https://thesis.unipd.it/handle/20.500.12608/22346) in Astronomy at the University of Padova (Italy), my bachelor thesis in Physics at the University of Trento (Italy), and my diploma at Liceo Scientifico "G. Fracastoro" in Verona.
+Before the PhD, I earned my [master thesis](https://thesis.unipd.it/handle/20.500.12608/22346) in Astronomy at the University of Padova (Italy), my bachelor thesis in Physics at the University of Trento (Italy), and my diploma at Liceo Scientifico "G. Fracastoro" in Verona.
 
 
 
+<sub>I created this website by following this  [guide](https://jayrobwilliams.com/posts/2020/06/academic-website/)</sub>
