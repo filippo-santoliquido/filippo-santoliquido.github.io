@@ -11,9 +11,11 @@ header:
     caption: "Tramonto dal rifugio Gniffetti (3 647 m)"
 ---
 
-Welcome! I am an astrophysicist studying the evolution of gravitational-wave sources across cosmic time. I am a researcher in the [DEMOBLACK](https://demoblack.com/) group at the University of Padova.
+Welcome! I am an astrophysicist studying the evolution of gravitational-wave sources across cosmic time. I am a researcher at the [Gran Sasso Sience Institue (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
 
-<!-- I am a researcher at the [Gran Sasso Sience Institue (GSSI)](https://www.gssi.it/) in L'Aquila (Italy). -->
+
+<!-- I am a researcher in the [DEMOBLACK](https://demoblack.com/) group at the University of Padova. -->
+
 
 In this website, you can find:
 
@@ -29,7 +31,7 @@ In this website, you can find:
 
 ### My journey in brief
 
-<!-- Currently I am a --> Starting in September 2023, I will be a postdoctoral fellow in Marica Branchesi’s group at [Gran Sasso Sience Institue (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
+Currently I am <!--Starting in September 2023, I will be--> a postdoctoral fellow in Marica Branchesi’s group at [Gran Sasso Sience Institue (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
 
 <img src="/assets/images/GSSI-Logo-R.png"  width="400" height="200"> -->
 
@@ -37,7 +39,6 @@ In this website, you can find:
 I have defended my PhD at the University of Padova (Italy), where I have worked under the supervision of [Michela Mapelli](http://web.pd.astro.it/mapelli/) in the [DEMOBLACK](https://demoblack.com/) group. At this [link](/assets/images/PhD_Thesis_Santoliquido_R.pdf) you can download my PhD Thesis and [here](/assets/images/PhD_defence.pdf) you can find the slides I used for my defence.
 
 Before the PhD, I earned my [master thesis](https://thesis.unipd.it/handle/20.500.12608/22346) in Astronomy at the University of Padova (Italy), my bachelor thesis in Physics at the University of Trento (Italy), and my diploma at Liceo Scientifico "G. Fracastoro" in Verona.
-
 
 
 <sub>I created this website by following this  [guide](https://jayrobwilliams.com/posts/2020/06/academic-website/)</sub>
