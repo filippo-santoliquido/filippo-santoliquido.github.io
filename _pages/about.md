@@ -11,7 +11,7 @@ header:
     caption: "Tramonto dal rifugio Gniffetti (3 647 m)"
 ---
 
-Welcome! I am an astrophysicist studying the evolution of gravitational-wave sources across cosmic time. I am a researcher at the [Gran Sasso Sience Institue (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
+Welcome! I am an astrophysicist studying the evolution of gravitational-wave sources across cosmic time. I am a researcher at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
 
 
 <!-- I am a researcher in the [DEMOBLACK](https://demoblack.com/) group at the University of Padova. -->
@@ -31,7 +31,7 @@ In this website, you can find:
 
 ### My journey in brief
 
-Currently I am <!--Starting in September 2023, I will be--> a postdoctoral fellow in Marica Branchesi’s group at [Gran Sasso Sience Institue (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
+Currently I am <!--Starting in September 2023, I will be--> a postdoctoral researcher in Marica Branchesi’s group at [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
 
 <img src="/assets/images/GSSI-Logo-R.png"  width="400" height="200"> -->
 
