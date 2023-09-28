@@ -31,9 +31,11 @@ In this website, you can find:
 
 ### My journey in brief
 
-Currently I am <!--Starting in September 2023, I will be--> a postdoctoral researcher in Marica Branchesi’s group at [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
+Currently I am <!--Starting in September 2023, I will be--> a postdoctoral researcher in Marica Branchesi’s group at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
 
-<img src="/assets/images/GSSI-Logo-R.png"  width="400" height="200"> -->
+<!--<img src="/assets/images/GSSI-Logo-R.png"  width="400" height="200"> -->
+
+<img src="/assets/images/picture_group_web.jpg"  width="700" height="300">
 
 
 I have defended my PhD at the University of Padova (Italy), where I have worked under the supervision of [Michela Mapelli](http://web.pd.astro.it/mapelli/) in the [DEMOBLACK](https://demoblack.com/) group. At this [link](/assets/images/PhD_Thesis_Santoliquido_R.pdf) you can download my PhD Thesis and [here](/assets/images/PhD_defence.pdf) you can find the slides I used for my defence.
