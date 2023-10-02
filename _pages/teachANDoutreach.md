@@ -26,6 +26,12 @@ header:
 
 # Outreach 
 
+* Sep. 29, 2023, **volunteer at [SHARPER23](https://www.sharper-night.it/sharper-laquila/)**
+
+
+<img src="/assets/images/sharper_site.jpg"  width="400" height="150">
+<figcaption>everything ready for the kilonova esperiment :) </figcaption>
+
 
 * Nov. 27, 2020, **Night of Researchers**. The 2020 Night of Researchers was followed by more than 500 people. I briefly introduced the gravitational wave topic and gave some short updates of my research work. At this [link](https://www.youtube.com/watch?v=aA_X20AdT0s) you can find the full recording. 
 
