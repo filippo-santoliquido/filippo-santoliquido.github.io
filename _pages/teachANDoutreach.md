@@ -10,7 +10,7 @@ header:
 
 ## Teaching
 
-* Aug. 2023, **Lecturer at "Cosmological History: from Gravitational Waves to Exoplanets"**. Click [here](/Brazil/){: .btn--research} to access lecture material on GW astrophysics. (4 hours + hands-on sections)
+* Aug. 2024, **Lecturer at "Cosmological History: from Gravitational Waves to Exoplanets"**. Click [here](/Brazil/){: .btn--research} to access lecture material on GW astrophysics. (4 hours + hands-on sections)
 
 * Nov. 2021, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++ (20 h/yr)
 
@@ -28,12 +28,13 @@ header:
 
 # Outreach 
 
-* Mar. , 2023, 
+* Mar. 25, 2024, Outreach lecture on gravitational wave astrophysics to several classes of the "Alessandro Volta" High School, Pescara, Italy
 
-* Sep. 29, 2023, **volunteer at [SHARPER23](https://www.sharper-night.it/sharper-laquila/)**
+* Mar. 2024, Following my receipt of the [2023 Tacchini prize](https://www.sait.it/node/751), an outreach article presenting the research I conducted during my PhD was published in the [Giornale di Astronomia, Vol. 50](https://giornaleastronomia.difa.unibo.it/). You can donwloand a [copy](/assets/images/premioTacchini23.pdf) of this article (only in Italian).  
 
+* Jan. 25, 2024, Outreach lecture on Physics and Sustainability to one class of the "Albert Einstein" High School (Teramo, Italy) visiting the GSSI.
 
-<img src="/assets/images/sharper_site.jpg"  width="400" height="150">
+* Sep. 29, 2023, **volunteer at [SHARPER23](https://www.sharper-night.it/sharper-laquila/)** <img src="/assets/images/sharper_site.jpg"  width="400" height="150">
 <br>
 <em>Everything ready for the kilonova esperiment :) <em>
 

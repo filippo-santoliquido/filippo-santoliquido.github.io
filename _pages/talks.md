@@ -12,13 +12,20 @@ header:
 
 ## Invited Scientific Talks 
 
+1. Aug. 6, 2024, Invited speaker at the Astrophysics seminar hosted by the Department of Physics, Universidad Andrés Bello, Santiago, Chile.
+1. Mar. 22, 2024, Invited speaker at the theory group seminar hosted at LNGS, INFN, L'Aquila, Italy
 1. Sep. 22 2022, Invited speaker at the Astrophysics seminar hosted by the Department of Physics, University of Milano-Bicocca, Milan, Italy.
 1. Jun. 24 2021, Invited speaker at the high-energy journal-club hosted by the Institut d’Astrophysique de Paris (IAP), Paris, France.
 1. Apr. 13 2021, Invited speaker at SISSA Astrophysics Colloquium, Trieste, Italy.
 
 
 ## Contributed Talks and Posters
-
+1. Jul. 15-19, 2024, Contributed talk at the [41ST LIAC](https://www.liac41.uliege.be/cms/c_17843766/en/liac41?id=c_17843766), Liége, Belgium
+1. May 27 - Jun. 9, 2024,  Partecipated at the [Fundamental Physics in the Era of Big Data and Machine Learning](https://aspenphys.org/summer-workshops/#event2401) workshop, Aspen Center for Physics, Aspen, USA
+1. May 6-10, 2024, Contributed talk at the [XIV ET Symposium](https://indico.ego-gw.it/event/710/), Maastricht, Netherlands 
+1. Nov. 13-15, 2023, Contributed talk at the [Fourth EPS Conference on Gravitation: Black Holes](https://hyperspace.uni-frankfurt.de/2023/07/18/fourth-european-physical-society-conference-on-gravitation-black-holes-valencia-spain/), Valencia, Spain
+1. Oct. 24-27, 2023, Poster at [GraSP23](https://agenda.infn.it/event/35400/), Pisa, Italy
+1. Oct. 4-6, 2023, Contributed talk at [IV Gravi-Gamma-Nu Workshop](https://ivgravi-gamma.my.canva.site/), L'Aquila, Italy
 1. Jul. 10-14 2023, Panelist at [GWPOPNEXT](https://sites.google.com/unimib.it/gwpopnext/program?authuser=0), Milan, Italy
 1. May 8-12 2023, Contributed Talk at [XIII ET symposium](https://indico.ego-gw.it/event/562/), Cagliari, Italy.
 1. Jun. 27-Jul. 1 2022, Contributed Talk at [EAS2022](https://eas.unige.ch/EAS2022/), Valencia, Spain.

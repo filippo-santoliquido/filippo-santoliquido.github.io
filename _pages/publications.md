@@ -19,6 +19,75 @@ You can find an updated list of my pubblications in the [Astrophysics Data Syste
 <!--READ HERE WHENE UPDATING:-->
 <!--Use this format in ADS custom export citation to print the list: %l (%Y), *%T*, %J, %V, %p, %U.\n-->
 
+# Publication summary 
+
+<!--
+```yaml
+Total publications: 34
+Total publications as first author: 7
+Refereed publications: 28
+Refereed publications as first author: 5
+Total number of citations: 1488
+Total number of citations as first author: 256
+h-index: 21
+h-index as first author: 4
+```
+-->
+
+
+<div style="width: 50%;">
+
+<table>
+  <tr>
+    <td>Total publications</td>
+    <td>34</td>
+  </tr>
+  <tr>
+    <td>Total publications as first author</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Refereed publications</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>Refereed publications as first author</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Total number of citations</td>
+    <td>1488</td>
+  </tr>
+  <tr>
+    <td>Total number of citations as first author</td>
+    <td>256</td>
+  </tr>
+  <tr>
+    <td>h-index</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>h-index as first author</td>
+    <td>4</td>
+  </tr>
+</table>
+
+</div>
+
+# 2024
+
+Liu, B., Hartwig, T., Sartorio, N. S., Dvorkin, I., Costa, G., **Santoliquido, F.**, Fialkov, A., Klessen, R. S., & Bromm, V. (2024), *Gravitational waves from mergers of Population III binary black holes: roles played by two evolution channels*, arXiv e-prints, arXiv:2406.17397, <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240617397L">2024arXiv240617397L</a>.
+
+Mestichelli, B., Mapelli, M., Torniamenti, S., Arca Sedda, M., Branchesi, M., Costa, G., Iorio, G., & **Santoliquido, F.** (2024), *Binary black hole mergers from Population III star clusters*, arXiv e-prints, arXiv:2405.06037, <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240506037M">2024arXiv240506037M</a>.
+
+Dupletsa, U., Harms, J., Ng, K. K. Y., Tissino, J., **Santoliquido, F.**, & Cozzumbo, A. (2024), *Validating Prior-informed Fisher-matrix Analyses against GWTC Data*, arXiv e-prints, arXiv:2404.16103, <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240416103D">2024arXiv240416103D</a>.
+
+**Santoliquido, F.**, Dupletsa, U., Tissino, J., Branchesi, M., Iacovelli, F., Iorio, G., Mapelli, M., Gerosa, D., Harms, J., & Pasquato, M. (2024), *Classifying binary black holes from Population III stars with the Einstein Telescope: a machine-learning approach*, arXiv e-prints, arXiv:2404.10048, <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240410048S">2024arXiv240410048S</a>.
+
+**Santoliquido, F.**, Mapelli, M., Iorio, G., Costa, G., Glover, S. C. O., Hartwig, T., Klessen, R. S., & Merli, L. (2024), *Correction to: Binary black hole mergers from population III stars: uncertainties from star formation and binary star properties*, Monthly Notices of the Royal Astronomical Society, 528, 954, <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.528..954S">2024MNRAS.528..954S</a>.
+
+
+
 # 2023
 
 
