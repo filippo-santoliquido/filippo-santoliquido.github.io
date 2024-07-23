@@ -11,11 +11,7 @@ header:
     caption: "Tramonto dal rifugio Gniffetti (3 647 m)"
 ---
 
-Welcome! I am an astrophysicist studying the evolution of gravitational-wave sources across cosmic time. I am a researcher at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
-
-
-<!-- I am a researcher in the [DEMOBLACK](https://demoblack.com/) group at the University of Padova. -->
-
+Welcome! I am an astrophysicist exploring the evolution of gravitational-wave sources across cosmic time. I am a researcher at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
 
 In this website, you can find:
 
@@ -31,11 +27,13 @@ In this website, you can find:
 
 ### My journey in brief
 
-Currently I am <!--Starting in September 2023, I will be--> a postdoctoral researcher in Marica Branchesi’s group at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
+Currently I am a postdoctoral researcher in Marica Branchesi’s group at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
 
 <!--<img src="/assets/images/GSSI-Logo-R.png"  width="400" height="200"> -->
 
 <img src="/assets/images/picture_group_web.jpg"  width="700" height="300">
+<br>
+<em>The GW group at GSSI. Credits: Jan Harms</em>
 
 
 I have defended my PhD at the University of Padova (Italy), where I have worked under the supervision of [Michela Mapelli](http://web.pd.astro.it/mapelli/) in the [DEMOBLACK](https://demoblack.com/) group. At this [link](/assets/images/PhD_Thesis_Santoliquido_R.pdf) you can download my PhD Thesis and [here](/assets/images/PhD_defence.pdf) you can find the slides I used for my defence.

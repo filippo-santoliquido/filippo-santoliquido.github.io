@@ -8,7 +8,7 @@ header:
 ---
 
 
-## merger rate density 
+## Merger rate density 
 
 <img src="/assets/images/cosmorate_logo.png"  width="300" height="150">
 
@@ -23,7 +23,7 @@ It is open source and available on <span style="color:orange">GitLab</span> at
 
 
 
-## host galaxies
+## Host galaxies
 
 <img src="/assets/images/galaxyrate_logo.png"  width="200" height="100">
 

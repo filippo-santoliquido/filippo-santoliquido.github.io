@@ -10,6 +10,8 @@ header:
 
 ## Teaching
 
+* Aug. 2023, **Lecturer at "Cosmological History: from Gravitational Waves to Exoplanets"**. Click [here](/Brazil/){: .btn--research} to access lecture material on GW astrophysics. (4 hours + hands-on sections)
+
 * Nov. 2021, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++ (20 h/yr)
 
 * Jun. 2021, **Laboratory of Computational Astrophysics**. I tutored a group of three students that completed a project using [cosmo$\mathcal{R}$ate](/software/){: .btn--research} (12 h/yr)
@@ -26,11 +28,14 @@ header:
 
 # Outreach 
 
+* Mar. , 2023, 
+
 * Sep. 29, 2023, **volunteer at [SHARPER23](https://www.sharper-night.it/sharper-laquila/)**
 
 
 <img src="/assets/images/sharper_site.jpg"  width="400" height="150">
-<figcaption>everything ready for the kilonova esperiment :) </figcaption>
+<br>
+<em>Everything ready for the kilonova esperiment :) <em>
 
 
 * Nov. 27, 2020, **Night of Researchers**. The 2020 Night of Researchers was followed by more than 500 people. I briefly introduced the gravitational wave topic and gave some short updates of my research work. At this [link](https://www.youtube.com/watch?v=aA_X20AdT0s) you can find the full recording. 
