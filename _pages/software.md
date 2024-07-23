@@ -8,8 +8,6 @@ header:
 ---
 
 
-## Merger rate density 
-
 <img src="/assets/images/cosmorate_logo.png"  width="300" height="150">
 
 <!--You can download ```cosmoRate``` at this [link](https://gitlab.com/Filippo.santoliquido/cosmo_rate_public)! -->
@@ -23,7 +21,7 @@ It is open source and available on <span style="color:orange">GitLab</span> at
 
 
 
-## Host galaxies
+
 
 <img src="/assets/images/galaxyrate_logo.png"  width="200" height="100">
 
