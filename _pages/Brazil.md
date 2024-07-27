@@ -18,7 +18,7 @@ Check [school website](https://www.ictp-saifr.org/chgwe2024/) for further inform
 
 ## Hands-on
 
-### Day 1
+### Section 1
 
 - clone cosmo$\mathcal{R}$ate repository 
 [https://gitlab.com/Filippo.santoliquido/cosmo_rate_public](https://gitlab.com/Filippo.santoliquido/cosmo_rate_public) 
@@ -31,8 +31,10 @@ Check [school website](https://www.ictp-saifr.org/chgwe2024/) for further inform
 
 - open and run the notebook ```gwfish_tutorial.ipynb```
 
-### Day 2
+### Section 2
 
 - download cosmo$\mathcal{R}$ate [userguide](/assets/images/BrazilLectures/cosmorate_user_guide.pdf){: .btn--research}
 
+### Section 3
 
+- download [this Jupyter notebook](/assets/images/BrazilLectures/tsunami_sevn_analysis.ipynb) and [this file](/assets/images/BrazilLectures/tsunami_sevn_data.h5) containing the catalogs (~ 10 MB). Open ```jupyter lab``` with  ```cosmo_env``` kernel in the same folder where you downloaded the data. A special thank to [Alessandro Trani](https://nbia.nbi.ku.dk/members/postdoctoral-fellows/nbia-alessandro-trani/) for preparing this exercises. 

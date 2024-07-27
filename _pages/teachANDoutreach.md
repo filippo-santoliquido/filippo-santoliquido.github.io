@@ -10,13 +10,13 @@ header:
 
 ## Teaching
 
-* Aug. 2024, **Lecturer at "Cosmological History: from Gravitational Waves to Exoplanets"**. Click [here](/Brazil/){: .btn--research} to access lecture material on GW astrophysics. (4 hours + hands-on sections)
+* Aug. 2024, **Lecturer of the course "Gravitational Wave Astrophysics" during the school "Cosmological History: from Gravitational Waves to Exoplanets"**. Click [here](/Brazil/){: .btn--research} to access lecture material. ICTP-SAIFR/IFT-UNESP, São Paulo, Brazil. (4 hours + hands-on sections)
 
-* Nov. 2021, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++ (20 h/yr)
+* Nov. 2021, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++. Univeristy of Padova, Italy. (20 h/yr)
 
-* Jun. 2021, **Laboratory of Computational Astrophysics**. I tutored a group of three students that completed a project using [cosmo$\mathcal{R}$ate](/software/){: .btn--research} (12 h/yr)
+* Jun. 2021, **Laboratory of Computational Astrophysics**. I tutored a group of three students that completed a project using [cosmo$\mathcal{R}$ate](/software/){: .btn--research}. Univeristy of Padova, Italy. (12 h/yr)
 
-* Nov. 2020, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++ (20 h/yr)
+* Nov. 2020, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++. Univeristy of Padova, Italy. (20 h/yr)
 
 ## Mentoring
 
