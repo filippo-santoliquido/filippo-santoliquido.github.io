@@ -1,23 +1,17 @@
 ---
-permalink: /Chile/
-title: "Hands-on section on cosmo$\mathcal{R}$ate"
+permalink: /chile/
+title: "Hands-on section at Universidad Andrés Bello"
 header:
-    image: Brazil_header.jpg
-    image_description: "La catena del Gran Sasso, Italia"
-    caption: "La catena del Gran Sasso, Italia"
+  image: "chile_header.jpg"
+  image_description: "Civita d'Antino, Italia (904 m)"
+  caption: "Civita d'Antino, Italia (904 m)"
 ---
 
-Here you can find the slides and the hands-on section exercises held at Universidad Andrés Bello on August 6, 2024. Any comment is welcome. 
-
-
-## Seminar
-
+Here you can find the slides and the hands-on section on cosmo$\mathcal{R}$ate held at Universidad Andrés Bello on August 6, 2024. Any comment is welcome. 
 
 [Seminar slides](/assets/images/ChileLectures/ChileSeminar.pdf){: .btn--research} 
 
-## Hands-on
-
-### Section 1
+### Hands-on
 
 - clone cosmo$\mathcal{R}$ate repository 
 [https://gitlab.com/Filippo.santoliquido/cosmo_rate_public](https://gitlab.com/Filippo.santoliquido/cosmo_rate_public) 
@@ -30,4 +24,3 @@ Here you can find the slides and the hands-on section exercises held at Universi
 
 
 - **Exercises**: 
-	- 
