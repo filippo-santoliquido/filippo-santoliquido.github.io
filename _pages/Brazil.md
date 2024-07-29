@@ -29,7 +29,9 @@ Check [school website](https://www.ictp-saifr.org/chgwe2024/) for further inform
 
 - clone ```GWFish``` git repository at [https://github.com/janosch314/GWFish](https://github.com/janosch314/GWFish) 
 
-- open and run the notebook ```gwfish_tutorial.ipynb```
+- open and run the notebook ```gwfish_tutorial.ipynb``` (ignore conda environment instructions)
+
+- [hint](https://lscsoft.docs.ligo.org/lalsuite/lalsimulation/group___l_a_l_sim_inspiral__h.html#gab955e4603c588fe19b39e47870a7b69c) :)
 
 ### Section 2
 
