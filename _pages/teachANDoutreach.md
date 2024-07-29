@@ -10,6 +10,8 @@ header:
 
 ## Teaching
 
+* Aug. 6, 2024, **Hands-on section on cosmo$\mathcal{R}$ate**. Click [here](/Chile/){: .btn--research} to access lecture material. Universidad Andrés Bello, Santiago, Chile. (2 hours)
+
 * Aug. 2024, **Lecturer of the course "Gravitational Wave Astrophysics" during the school "Cosmological History: from Gravitational Waves to Exoplanets"**. Click [here](/Brazil/){: .btn--research} to access lecture material. ICTP-SAIFR/IFT-UNESP, São Paulo, Brazil. (4 hours + hands-on sections)
 
 * Nov. 2021, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++. Univeristy of Padova, Italy. (20 h/yr)

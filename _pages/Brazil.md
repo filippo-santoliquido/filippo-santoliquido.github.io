@@ -35,8 +35,12 @@ Check [school website](https://www.ictp-saifr.org/chgwe2024/) for further inform
 
 ### Section 2
 
-- download cosmo$\mathcal{R}$ate [userguide](/assets/images/BrazilLectures/cosmorate_user_guide.pdf){: .btn--research}
+- download cosmo$\mathcal{R}$ate [userguide](/assets/images/BrazilLectures/cosmorate_user_guide.pdf){: .btn--research} to learn how to use the code
+- **Exercises**: 
+	- create a figure where you compare the primary mass distribution $m_1$
+at diﬀerent redshifts ($z = 0, 2, 8$) of binary black holes (BBHs) evaluated with two diﬀerent values of $\sigma_Z = 0.1, 0.6$. Use the astrophysical model provided. *Hint:* you need to update also the variable ```sim_name```
+	- Do the same for BHNSs
 
 ### Section 3
 
-- download [this Jupyter notebook](/assets/images/BrazilLectures/tsunami_sevn_analysis.ipynb) and [this file](/assets/images/BrazilLectures/tsunami_sevn_data.h5) containing the catalogs (~ 10 MB). Open ```jupyter lab``` with  ```cosmo_env``` kernel in the same folder where you downloaded the data. A special thank to [Alessandro Trani](https://nbia.nbi.ku.dk/members/postdoctoral-fellows/nbia-alessandro-trani/) for preparing this exercises. 
+- download [this Jupyter notebook](/assets/images/BrazilLectures/tsunami_sevn_analysis.ipynb) and [this file](/assets/images/BrazilLectures/tsunami_sevn_data.h5) containing the catalogs (~ 10 MB). Open ```jupyter lab``` with  ```cosmo_env``` kernel in the same folder where you downloaded the data. [*A special thank goes to [Alessandro Trani](https://nbia.nbi.ku.dk/members/postdoctoral-fellows/nbia-alessandro-trani/) for preparing this exercises.*] 
