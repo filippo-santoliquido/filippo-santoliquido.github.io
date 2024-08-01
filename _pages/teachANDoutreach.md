@@ -12,13 +12,13 @@ header:
 
 * Aug. 6, 2024, **Hands-on section on cosmo$\mathcal{R}$ate**. Click [here](/chile/){: .btn--research} to access lecture material. Universidad Andrés Bello, Santiago, Chile. (2 hours)
 
-* Aug. 2024, **Lecturer of the course "Gravitational Wave Astrophysics" during the school "Cosmological History: from Gravitational Waves to Exoplanets"**. Click [here](/Brazil/){: .btn--research} to access lecture material. ICTP-SAIFR/IFT-UNESP, São Paulo, Brazil. (4 hours + hands-on sections)
+* Aug. 2024, **Lecturer of the course "Gravitational Wave Astrophysics" during the school "Cosmological History: from Gravitational Waves to Exoplanets"**. Click [here](/Brazil/){: .btn--research} to access lecture material. [ICTP-SAIFR](https://www.ictp-saifr.org/)/[IFT-UNESP](https://www.ift.unesp.br/), São Paulo, Brazil. (4 hours + hands-on sections)
 
-* Nov. 2021, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++. Univeristy of Padova, Italy. (20 h/yr)
+* Nov. 2021, **Physics Lab assistant**. I supported students during learning of basic programming skills for data analysis in C++. Univeristy of Padova, Italy. (20 h/yr)
 
 * Jun. 2021, **Laboratory of Computational Astrophysics**. I tutored a group of three students that completed a project using [cosmo$\mathcal{R}$ate](/software/){: .btn--research}. Univeristy of Padova, Italy. (12 h/yr)
 
-* Nov. 2020, **Physics Lab assistant**. I supported students that learnt basic programming skills for data analysis in C++. Univeristy of Padova, Italy. (20 h/yr)
+* Nov. 2020, **Physics Lab assistant**. I supported students learning basic programming skills for data analysis in C++. Univeristy of Padova, Italy. (20 h/yr)
 
 ## Mentoring
 
@@ -30,11 +30,11 @@ header:
 
 # Outreach 
 
-* Mar. 25, 2024, Outreach lecture on gravitational wave astrophysics to several classes of the "Alessandro Volta" High School, Pescara, Italy
+*  Outreach lectures on Physics and Astrophysics to high school classes:
+	* Mar. 25, 2024, "Alessandro Volta" high school, Pescara, Italy
+	* Jan. 25, 2024, "Albert Einstein" high school, Teramo, Italy
 
-* Mar. 2024, Following my receipt of the [2023 Tacchini prize](https://www.sait.it/node/751), an outreach article presenting the research I conducted during my PhD was published in the [Giornale di Astronomia, Vol. 50](https://giornaleastronomia.difa.unibo.it/). You can donwloand a [copy](/assets/images/premioTacchini23.pdf) of this article (only in Italian).  
-
-* Jan. 25, 2024, Outreach lecture on Physics and Sustainability to one class of the "Albert Einstein" High School (Teramo, Italy) visiting the GSSI.
+* An outreach article presenting the research I conducted during my PhD was published in the [Giornale di Astronomia, Vol. 50](https://giornaleastronomia.difa.unibo.it/). You can donwloand a [copy](/assets/images/premioTacchini23.pdf) of this article *(only in Italian)*.  
 
 * Sep. 29, 2023, **volunteer at [SHARPER23](https://www.sharper-night.it/sharper-laquila/)** <img src="/assets/images/sharper_site.jpg"  width="400" height="150">
 <br>
