@@ -9,6 +9,8 @@ header:
 
 Here you can find the hands-on section exercises on cosmo$\mathcal{R}$ate held at Universidad Andrés Bello on August 6, 2024. Any comment is welcome. 
 
+[Here](/assets/images/PopIII_Chile.pdf){: .btn--research}, you can download the slides used during the seminar. 
+
 ### Installation
 
 - To clone cosmo$\mathcal{R}$ate [repository](https://gitlab.com/Filippo.santoliquido/cosmo_rate_public) (~ 60 MB) launch in a terminal:
