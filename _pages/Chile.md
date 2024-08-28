@@ -53,8 +53,8 @@ We need to change the default value of the following variables:
 - ```cb_class = ['BBH']```
 - ```Z_simulated = [1e-11]``` (You can comment and uncomment)
 - ```formation_channel = 'popIII'```
-- ```sim='popIII/LOG1/'```
-- ```extension='.dat'```
+- ```sim = 'popIII/LOG1/'```
+- ```extension = '.dat'```
 - ```N_z_bins = 400```
 - ```zMAX = 40```
 - ```pop = 'III'```
