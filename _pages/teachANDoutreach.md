@@ -34,7 +34,7 @@ header:
 	* Mar. 25, 2024, "Alessandro Volta" high school, Pescara, Italy
 	* Jan. 25, 2024, "Albert Einstein" high school, Teramo, Italy
 
-* An outreach article presenting the research I conducted during my PhD was published in the [Giornale di Astronomia, Vol. 50](https://giornaleastronomia.difa.unibo.it/). You can donwloand a [copy](/assets/images/premioTacchini23.pdf) of this article *(only in Italian)*.  
+* An outreach article presenting the research I conducted during my PhD was published in the [Giornale di Astronomia, Vol. 50](https://giornaleastronomia.difa.unibo.it/). <!-- You can donwloand a [copy](/assets/images/premioTacchini23.pdf) of this article *(only in Italian)*.-->  
 
 * Sep. 29, 2023, **volunteer at [SHARPER23](https://www.sharper-night.it/sharper-laquila/)** <img src="/assets/images/sharper_site.jpg"  width="400" height="150">
 <br>
