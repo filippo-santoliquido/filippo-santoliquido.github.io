@@ -40,7 +40,7 @@ h-index as first author: 4
 <table>
   <tr>
     <td>Total publications</td>
-    <td>34</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Total publications as first author</td>
@@ -48,23 +48,23 @@ h-index as first author: 4
   </tr>
   <tr>
     <td>Refereed publications</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Refereed publications as first author</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Total number of citations</td>
-    <td>1488</td>
+    <td>1609</td>
   </tr>
   <tr>
     <td>Total number of citations as first author</td>
-    <td>256</td>
+    <td>274</td>
   </tr>
   <tr>
     <td>h-index</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>h-index as first author</td>
@@ -73,6 +73,8 @@ h-index as first author: 4
 </table>
 
 </div>
+
+Last update: September 5, 2024
 
 # 2024
 

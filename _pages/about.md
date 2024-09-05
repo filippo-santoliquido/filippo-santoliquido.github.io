@@ -11,29 +11,31 @@ header:
     caption: "Tramonto dal rifugio Gniffetti (3 647 m)"
 ---
 
-Welcome! I am an astrophysicist exploring the evolution of gravitational-wave sources across cosmic time. I am a researcher at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
+Welcome! I am an astrophysicist exploring the evolution of gravitational-wave sources across cosmic time. Currently, I work as a researcher at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
 
 In this website, you can find:
 
-* A summary of my [Research](/research/){: .btn--research} activties that led to these [Publications](/publications/){: .btn--research}.
+* [Research](/research/){: .btn--research} A summary of my research activities
 
-* The [Software](/software/){: .btn--research} I have developed for my research.
+* [Papers](/publications/){: .btn--research} A list of my publications and related metrics
 
-* A list of [Talks](/talks/){: .btn--research} 
+* [Software](/software/){: .btn--research} Links to repositories hosting the codes I've developed
 
-* [Teaching and Outreach](/teachANDoutreach/){: .btn--research} activities
+* [Talks](/talks/){: .btn--research} A list of my invited and contributed talks
 
-* An updated version of my [CV](/cv/){: .btn--research}.
+* [Teaching and Outreach](/teachANDoutreach/){: .btn--research} Information about my teaching and outreach activities
+
+* [CV](/cv/){: .btn--research} The latest version of my resume
 
 ### My journey in brief
 
-Currently I am a postdoctoral researcher in Marica Branchesi’s group at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
+I am presently a postdoctoral researcher in [Marica Branchesi](https://it.wikipedia.org/wiki/Marica_Branchesi)’s group at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in [L'Aquila, Italy](https://en.wikipedia.org/wiki/L'Aquila). 
 
 <!--<img src="/assets/images/GSSI-Logo-R.png"  width="400" height="200"> -->
 
 <img src="/assets/images/picture_group_web.jpg"  width="700" height="300">
 <br>
-<em>The GW group at GSSI. Credits: Jan Harms</em>
+<em>People working on gravitational-wave astrophysics at the GSSI. Credits: Jan Harms</em>
 
 
 I have defended my PhD at the University of Padova (Italy), where I have worked under the supervision of [Michela Mapelli](http://web.pd.astro.it/mapelli/) in the [DEMOBLACK](https://demoblack.com/) group. At this [link](/assets/images/PhD_Thesis_Santoliquido_R.pdf) you can download my PhD Thesis and [here](/assets/images/PhD_defence.pdf) you can find the slides I used for my defence.
