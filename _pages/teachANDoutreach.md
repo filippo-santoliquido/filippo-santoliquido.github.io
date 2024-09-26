@@ -30,6 +30,13 @@ header:
 
 # Outreach 
 
+* Sep 27, 2024, **volunteer at [SHARPER24](https://www.sharper-night.it/sharper-laquila/)**
+
+* Sep. 19, 2024, **Tutte le direzioni della luce**. The stunning island of [Sant'Antioco](https://maps.app.goo.gl/tmPRmhxjFFqv5B1d9) provided the perfect setting for our discussions on the [Sun](/assets/images/SantAntioco/SantAntioco_sole.pdf) and [Moon](/assets/images/SantAntioco/SantAntioco_luna.pdf). The event was organised by [Ottovolante Sulcis](https://ottovolantesulcis.it/) in collaboration with [IDeAS](https://linktr.ee/ideas_1794). <img src="/assets/images/SantAntioco/tutteledirezionidellaluce.jpg"  width="400" height="150">
+
+
+ 
+
 *  Outreach lectures on Physics and Astrophysics to high school classes:
 	* Mar. 25, 2024, "Alessandro Volta" high school, Pescara, Italy
 	* Jan. 25, 2024, "Albert Einstein" high school, Teramo, Italy
