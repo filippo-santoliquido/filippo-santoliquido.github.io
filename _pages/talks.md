@@ -21,7 +21,7 @@ header:
 
 ## Contributed Talks and Posters
 1. Jul. 15-19, 2024, Contributed talk at the [41ST LIAC](https://www.liac41.uliege.be/cms/c_17843766/en/liac41?id=c_17843766), Liége, Belgium
-1. May 27 - Jun. 9, 2024,  Partecipated at the [Fundamental Physics in the Era of Big Data and Machine Learning](https://aspenphys.org/summer-workshops/#event2401) workshop, Aspen Center for Physics, Aspen, USA
+1. May 27 - Jun. 9, 2024,  Participated at the workshop [Fundamental Physics in the Era of Big Data and Machine Learning](https://aspenphys.org/summer-workshops/#event2401), Aspen Center for Physics, Aspen, USA
 1. May 6-10, 2024, Contributed talk at the [XIV ET Symposium](https://indico.ego-gw.it/event/710/), Maastricht, Netherlands 
 1. Nov. 13-15, 2023, Contributed talk at the [Fourth EPS Conference on Gravitation: Black Holes](https://hyperspace.uni-frankfurt.de/2023/07/18/fourth-european-physical-society-conference-on-gravitation-black-holes-valencia-spain/), Valencia, Spain
 1. Oct. 24-27, 2023, Poster at [GraSP23](https://agenda.infn.it/event/35400/), Pisa, Italy
