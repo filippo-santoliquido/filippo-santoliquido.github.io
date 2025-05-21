@@ -17,7 +17,7 @@ You can find an updated list of my pubblications in the [Astrophysics Data Syste
 
 
 <!--READ HERE WHENE UPDATING:-->
-<!--Use this format in ADS custom export citation to print the list: %l (%Y), *%T*, %J, %V, %p, %U.\n-->
+<!--Use this format in ADS custom export citation to print the list: *%T*, %h et al., %q %V(%S), %D, %U.\n-->
 
 # Publication summary 
 
