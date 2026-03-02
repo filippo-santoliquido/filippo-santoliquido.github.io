@@ -11,6 +11,6 @@ header:
   caption: "Lago di Garda coperto dalla nebbia, al tramonto"
 ---
 
-Last update: October 29, 2024
+Last update: March 2, 2026
 
 <embed src="https://filippo-santoliquido.github.io/assets/images/CV_santoliquido.pdf" type="application/pdf" />
