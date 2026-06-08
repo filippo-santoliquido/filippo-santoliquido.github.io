@@ -6,19 +6,49 @@ header:
     caption: "Cima Tosa vista dal rifugio Carré Alto all'alba"
 ---
 
-Here, I outline my research interests. Do not esitate to [contact me](mailto:filippo DOT santoliquido AT gssi DOT it) to get further details.
+Below I outline my research interests — feel free to [reach out](mailto:filippo.santoliquido@gssi.it) for further details.
+
+
+## Deep Learning applied to Gravitational Wave astrophysics
+
+The next decade will decide the final design of the next-generation gravitational-wave observatories, such as the [Einstein Telescope](https://www.et-gw.eu/) and [Cosmic Explorer](https://cosmicexplorer.org/). These choices — the geometry, orientation, and location of the detectors — are essentially irreversible, so it is crucial to understand how each option shapes the science we will be able to do. [In this paper](https://arxiv.org/pdf/2512.20699), we compared several candidate configurations and asked a simple question: how well can each of them measure the properties of the gravitational-wave sources we care about most?
+
+We focused on a particularly promising class of sources: massive black hole mergers from the distant Universe, including those formed by the first generation of stars, primordial black holes, and intermediate-mass black holes. To analyze them, we used [Dingo](https://github.com/dingo-gw/dingo), a fast deep-learning method based on normalizing flows, which reconstructs the properties of a source in minutes rather than the many hours required by traditional approaches — an essential feature given the enormous number of detections expected with future observatories.
+
+A key result is that two misaligned L-shaped detectors generally pinpoint the position of a source on the sky, and its location in the Universe, better than a single triangular detector. This improvement is important for cosmology, where identifying the galaxies that may host a source depends on how well we can localize it. The figure below shows one illustrative event analyzed with two different configurations.
+
+<p align="center">
+  <img src="../assets/images/Research/sky_maps.png" alt="" width="60%">
+</p>
+<sub>Reconstruction of a single black hole merger observed with a triangular detector ($\Delta$, dark blue) and with two misaligned L-shaped detectors (2L MisA, light blue), compared with a standard analysis (orange). The top panel shows the inferred distance to the source, while the lower panels show its position on the sky, color-coded by distance. The 2L MisA configuration produces fewer distinct sky regions, leading to a more precise localization. Adapted from [Santoliquido et al. 2026](https://arxiv.org/abs/2512.20699).</sub>
+
+
+## Einstein Telescope science case
+
+<p align="center">
+  <img src="../assets/images/Research/ET_map.png" alt="Location of the triangular Einstein Telescope in Sardinia" width="60%">
+</p>
+<sub>Position and orientation of the three nested interferometers (ET-1, ET-2, and ET-3) that together form the triangular Einstein Telescope (ET-$\Delta$), shown here at the candidate site in Sardinia. Adapted from [Santoliquido et al. 2025](https://arxiv.org/abs/2504.21087).</sub>
+
+
+
+The [Einstein Telescope](https://www.et-gw.eu/) is a third-generation gravitational-wave detector designed to be built underground, shielding it from numerous noise sources. Thanks to its unprecedented sensitivity, it will observe black hole mergers from across the deep Universe. As part of this effort, I have been investigating the population of sources the Einstein Telescope will detect, including [black holes formed from Population III stars](https://arxiv.org/pdf/2303.15515) — the very first generation of stars to have ever formed. While the Einstein Telescope will be able to observe these sources, their expected number depends sensitively on a range of poorly constrained astrophysical processes, as illustrated in the figure below.
+
+<p align="center">
+  <img src="../assets/images/Research/popIII_detections.png" alt="Detection rates of Population III binary black holes with the Einstein Telescope" width="60%">
+</p>
+<sub>Detection rate $\mathcal{R}_\mathrm{det}$ of binary black holes formed from Population III stars, assuming the Einstein Telescope in its triangle configuration. Different colors and marker shapes correspond to different models for star formation in the early Universe, while the $x$-axis labels the different binary evolution pathways leading to black hole formation. Adapted from [Santoliquido et al. 2023](https://arxiv.org/abs/2303.15515).</sub>
+
 
 ## Machine Learning applied to Astrophysics
 
 
-Machine Learning represents an important step forward in advanicng many astrophycs task. <a href="https://arxiv.org/pdf/2404.10048">In this paper</a>, we used <a href="https://xgboost.readthedocs.io/en/stable/index.html">XGBoost</a> to learn how to classify two different populations of black holes: Those generated in the distant Universe and those generated in close-by galaxies. Distant black holes will be observed by the <a href="https://www.et-gw.eu/">Einstein Telescope</a>: A third-generation detector for observing gravitaitonal-waves. 
+Machine learning is opening new frontiers in astrophysics. [In this paper](https://arxiv.org/pdf/2404.10048), I used [XGBoost](https://xgboost.readthedocs.io/en/stable/index.html) to classify two distinct black hole populations: high-redshift sources formed in the distant Universe, and those originating in nearby galaxies. Detecting high-redshift sources will be one of the key science goals of the [Einstein Telescope](https://www.et-gw.eu/), a next-generation gravitational-wave observatory.
 
-
-
-
-## Development of the Einstein Telescope science case
-
-The <a href="https://www.et-gw.eu/">Einstein Telescope</a> is a third-generation gravitational-wave detector designed to be built underground. It will enable us to observe black hole mergers from deep space. To prepare for this, I have begun investigating the potential sources that the Einstein Telescope will detect, including <a href="https://arxiv.org/pdf/2303.15515">black holes formed from Population III stars</a>, the first generation of stars ever created.
+<p align="center">
+  <img src="../assets/images/Research/two_classes.png" alt="Classification of black hole populations" width="60%">
+</p>
+<sub>Red and blue distributions correspond to binary black hole mergers from the most recent generations of stars (Pop. I-II BBHs) and the distant Universe (fiducial balanced), respectively. The lower panels show kernel density estimates of the source parameters (masses and distance), the upper panels the individual samples, and the diagonal panels the marginalized distributions. Adapted from [Santoliquido et al. 2024](https://arxiv.org/abs/2404.10048).</sub>
 
 
 

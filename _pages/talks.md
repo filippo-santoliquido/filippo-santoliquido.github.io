@@ -7,43 +7,99 @@ header:
   caption: "Dolomiti dalle pendici del Pelmo (3 168 m)"
 ---
 
-<a href="../talkmap/map.html">See a map of all the places I've given a talk!</a>
+A map of all the places where I've given talks (some delivered remotely)
 
-## Invited Scientific Talks
+<iframe src="../_pages/talkmap.html" width="80%" height="500" style="border:none;"></iframe>
 
-1. Aug. 6, 2024, Invited speaker at the Astrophysics seminar hosted by the Department of Physics, Universidad Andrés Bello, Santiago, Chile.
-2. Mar. 22, 2024, Invited speaker at the theory group seminar hosted at LNGS, INFN, L'Aquila, Italy
-3. Sep. 22 2022, Invited speaker at the Astrophysics seminar hosted by the Department of Physics, University of Milano-Bicocca, Milan, Italy.
-4. Jun. 24 2021, Invited speaker at the high-energy journal-club hosted by the Institut d’Astrophysique de Paris (IAP), Paris, France.
-5. Apr. 13 2021, Invited speaker at SISSA Astrophysics Colloquium, Trieste, Italy.
+## Invited Colloquia and Seminars
 
-## Contributed Talks and Posters
+1. Invited speaker, _Marietta Blau Institute_, Vienna, Austria. <span style="color: grey;">23 Jan. 2026</span>
+  
+2. Invited speaker, _Trento Institute for Fundamental Physics and Applications (TIFPA)_, Trento, Italy. <span style="color: grey;">4 Dec. 2025</span>
+  
+3. Invited speaker, _Johns Hopkins University_, Baltimore, USA. <span style="color: grey;">10 Jun. 2025</span>
+  
+4. Invited speaker, GW-BO meeting, _University of Bologna_, Bologna, Italy. <span style="color: grey;">11 Feb. 2025</span>
+  
+5. Invited speaker, _INFN-Cagliari_, Cagliari, Italy. <span style="color: grey;">29 Nov. 2024</span>
+  
+6. Invited speaker, Department of Astronomy, _University Andrés Bello_, Santiago, Chile. <span style="color: grey;">6 Aug. 2024</span>
+  
+7. Invited speaker, _INFN-Laboratori Nazionali del Gran Sasso_, L’Aquila, Italy. <span style="color: grey;">22 Mar. 2024</span>
+  
+8. Invited speaker, Department of Physics, _University of Milano-Bicocca_, Milan, Italy. <span style="color: grey;">22 Sep. 2022</span>
+  
+9. Invited speaker, High Energy Group Meeting, _Institut d’Astrophysique de Paris (IAP)_, Paris, France. <span style="color: grey;">24 Jun. 2021</span>
+  
+10. Invited speaker, GW group meeting, *Observatoire de la Côte d’Azur*, Nice, France. <span style="color: grey;">29 May - 2 Jun. 2022</span>
+  
+11. Invited speaker, _SISSA Astrophysics Colloquium_, Trieste, Italy. <span style="color: grey;">13 Apr. 2021</span>
+  
 
-1. Jun. 2-6, 2025, [Poster](/assets/images/ICERM/poster_ICERM.pdf) at the workshop [Scientific Machine Learning for Gravitational Wave Astronomy](https://icerm.brown.edu/program/topical_workshop/tw-25-smlgwa#section-1), The Institute for Computational and Experimental Research in Mathematics (ICERM), Providence, USA
-2. Jul. 15-19, 2024, Contributed talk at the [41ST LIAC](https://www.liac41.uliege.be/cms/c_17843766/en/liac41?id=c_17843766), Liége, Belgium
-3. May 27 - Jun. 9, 2024,  Participated at the workshop [Fundamental Physics in the Era of Big Data and Machine Learning](https://aspenphys.org/summer-workshops/#event2401), Aspen Center for Physics, Aspen, USA
-4. May 6-10, 2024, Contributed talk at the [XIV ET Symposium](https://indico.ego-gw.it/event/710/), Maastricht, Netherlands 
-5. Nov. 13-15, 2023, Contributed talk at the [Fourth EPS Conference on Gravitation: Black Holes](https://hyperspace.uni-frankfurt.de/2023/07/18/fourth-european-physical-society-conference-on-gravitation-black-holes-valencia-spain/), Valencia, Spain
-6. Oct. 24-27, 2023, Poster at [GraSP23](https://agenda.infn.it/event/35400/), Pisa, Italy
-7. Oct. 4-6, 2023, Contributed talk at [IV Gravi-Gamma-Nu Workshop](https://ivgravi-gamma.my.canva.site/), L'Aquila, Italy
-8. Jul. 10-14 2023, Panelist at [GWPOPNEXT](https://sites.google.com/unimib.it/gwpopnext/program?authuser=0), Milan, Italy
-9. May 8-12 2023, Contributed Talk at [XIII ET symposium](https://indico.ego-gw.it/event/562/), Cagliari, Italy.
-10. Jun. 27-Jul. 1 2022, Contributed Talk at [EAS2022](https://eas.unige.ch/EAS2022/), Valencia, Spain.
-    Annual meeting of the European Astronomical Society. Symposium:
-    [*"Gravitational Wave and Multi-messenger Astronomy: current results and future perspectives"*](https://eas.unige.ch/EAS2022/session.jsp?id=SS14).
-11. Jun. 20-24 2022, [Bayesian Deep Learning in Astrophysics](https://astrodeep.net/workshop2022/), Paris, France.
-12. Apr. 6-9 2022, Contributed Talk at [APS meeting](https://meetings.aps.org/Meeting/APR22/APS_epitome), New York City, New York, USA.
-13. Dec. 2 2021, Contributed Talk at [GWday](https://indico.dfa.unipd.it/event/287/), Padova, Italy.
-14. Jul. 19-23 2021, Contributed Talk at [Amaldi14](https://www.amaldi14.org/), Melbourne, Australia.
-15. Jun. 28-Jul. 2 2021, Poster at [EAS2021](https://eas.unige.ch/EAS2021/), Leiden, Netherlands.
-    Annual meeting of the European Astronomical Society. Symposium:
-    [*"The Birth, Life, and Death of Black Holes"*](https://eas.unige.ch/EAS2021/session.jsp?id=S9).
-16. May 24-28, 2021, Contributed Talk at [3rd Workshop on Chemical Abundances in Gaseous Nebulae](/assets/images/Filippo_Santoliquido.pdf), Universidade do Vale do Paraíba, São José dos Campos, Brazil.
-17. May 10-14 2021, [#4 Gravitational Wave Open Data Workshop](https://gwosc.org/s/workshop4/), Virtual meeting.
-18. Mar. 30-Apr. 1 2021, Contributed Talk at [The fourth assembly of the Groupement de Recherche Ondes Gravitationnelles](https://indico.math.cnrs.fr/event/5766/), Paris, France.
-19. Mar. 9-11 2021, Poster at [55th Rencontres de Moriond 2021](https://moriond.in2p3.fr/2021/), La Thuile, Italy.
-20. Feb. 18 2021, Contributed Talk at annual [TEONGRAV meeting](https://web.infn.it/CSN4/index.php/it/riunioni), Virtual meeting.
-21. Jun. 29-Jul. 3 2020, Poster at [EAS2020](https://eas.unige.ch/EAS2020/), Leiden, Netherlands.
-    Annual meeting of the European Astronomical Society. Symposium:
-    [*"What have we learned from the observed population of gravitational wave sources?"*](https://eas.unige.ch/EAS2020/session.jsp?id=S5).
-22. Mar. 10-13 2020, Invited talk at [Mock Innsbruck](https://www.uibk.ac.at/congress/mockinnsbruck/index.html.en), Innsbruck, Austria
+## Conferences and Workshops
+
+1. Contributed talk at "AI for Gravitational Wave workshop", CERN, Geneva, Switzerland. <span style="color: grey;">5-8 May 2026</span>
+  
+2. **Invited speaker** (on behalf of the LIGO-Virgo-KAGRA collaboration) at "GRaviCon 2026", Pisa, Italy. <span style="color: grey;">22-24 Apr. 2026</span>
+  
+3. **Invited speaker** and panelist at the "Einstein Telescope science workshop for early career researchers", Rome, Italy. <span style="color: grey;">18-20 Feb. 2026</span>
+  
+4. Contributed talk at "GWFreeride: Carving the AI Gradient in Gravitational-Wave Astronomy", Sexten, Italy. <span style="color: grey;">26-30 Jan. 2026</span>
+  
+5. Contributed talk at the "4th Einstein Telescope annual meeting", Opatija, Croatia. <span style="color: grey;">11-14 Nov. 2025</span>
+  
+6. Contributed talk at "FROM DEEP SPACE TO DEEP EARTH: THE EXPERIMENTAL NETWORK IN SARDINIA - A GEOPHYSICAL WORKSHOP", Orosei, Italia. <span style="color: grey;">6-10 Oct. 2025</span>
+  
+7. **Invited speaker** and panelist at the "1st Sardinian GW Science mini-workshop", Cagliari, Italia. <span style="color: grey;">24-25 Sep. 2025</span>
+  
+8. Contributed talk at "EuCAIFCon 2025", Cagliari, Italia. <span style="color: grey;">16-20 Jun. 2025</span>
+  
+9. Poster at the workshop "Scientific Machine Learning for Gravitational Wave Astronomy", The Institute for Computational and Experimental Research in Mathematics (ICERM), Providence, USA. <span style="color: grey;">2-6 Jun. 2025</span>
+  
+10. Contributed talk at the "XV Einstein Telescope Symposium", Bologna, Italia. <span style="color: grey;">26-30 May 2025</span>
+  
+11. Contributed talk and panelist at the workshop "Challenges and future perspectives in gravitational-wave astronomy: O4 and beyond", Lorentz Center, Leiden, Netherlands. <span style="color: grey;">14-18 Oct. 2024 </span>
+  
+12. Contributed talk at the annual TEONGRAV meeting, Sapienza Università di Roma, Rome, Italy. <span style="color: grey;">16-20 Sep. 2024</span>
+  
+13. Contributed talk at the 41ST LIAC, Université de Liège, Liège, Belgium. <span style="color: grey;">15-19 Jul. 2024</span>
+  
+14. Participation at the workshop "Fundamental Physics in the Era of Big Data and Machine Learning", Aspen Center for Physics, Aspen, USA. <span style="color: grey;">27 May - 9 Jul. 2024</span>
+  
+15. Contributed talk at the XIV ET Symposium, Maastricht, Netherlands. <span style="color: grey;">6-10 May 2024</span>
+  
+16. Contributed talk at the "Fourth EPS Conference on Gravitation: Black Holes", Valencia, Spain. <span style="color: grey;">13-15 Nov. 2023</span>
+  
+17. Poster at GraSP23, University of Pisa, Pisa, Italy. <span style="color: grey;">24-27 Oct. 2023</span>
+  
+18. Contributed talk at IV Gravi-Gamma-Nu workshop, Gran Sasso Science Institute, L'Aquila, Italy. <span style="color: grey;">4-6 Oct. 2023</span>
+  
+19. Panelist at GWPOPNEXT, University of Milano-Bicocca, Milan, Italy. <span style="color: grey;">10-14 Jul. 2023</span>
+  
+20. Contributed talk at XIII ET symposium, Cagliari, Italy. <span style="color: grey;">8-12 May 2023</span>
+  
+21. Contributed talk at EAS2022, annual meeting of the European Astronomical Society during the symposium: "Gravitational Wave and Multi-messenger Astronomy: current results and future perspectives", Valencia, Spain. <span style="color: grey;">27 Jun. - Jul. 1 2022</span>
+  
+22. Participation at the workshop "Bayesian Deep Learning in Astrophysics", Paris, France. <span style="color: grey;">20-24 Jun. 2022</span>
+  
+23. Contributed talk at the American Physical Society April Meeting 2022, New York City, New York, USA. <span style="color: grey;">9-12 Apr. 2022</span>
+  
+24. Contributed talk at GWday, Padova, Italy. <span style="color: grey;">2 Dec. 2021</span>
+  
+25. Contributed talk at Amaldi14, Melbourne, Australia. <span style="color: grey;">19-23 Jul. 2021</span>
+  
+26. Jun. 2021 Poster at EAS2021, annual meeting of the European Astronomical Society during the symposium: "The Birth, Life, and Death of Black Holes". Leiden, Netherlands. <span style="color: grey;">Jun. 28-Jul. 2 2021</span>
+  
+27. Contributed talk at "3rd Workshop on Chemical Abundances in Gaseous Nebulae", Universidade do Vale do Paraíba, São José dos Campos, Brazil. <span style="color: grey;">24-28 May 2021</span>
+  
+28. Participation at the workshop "#4 Gravitational Wave Open Data Workshop", Virtual meeting. <span style="color: grey;">10-14 May 2021</span>
+  
+29. Contributed talk at "The fourth assembly of the Groupement de Recherche Ondes Gravitationnelles", Paris, France. <span style="color: grey;">30 Mar. -1 Apr. 2021</span>
+  
+30. Poster at 55th Rencontres de Moriond 2021, La Thuile, Italy. <span style="color: grey;">9-11 Mar. 2021</span>
+  
+31. Contributed talk at annual TEONGRAV meeting, Virtual meeting. <span style="color: grey;">18 Feb. 2021</span>
+  
+32. Poster at EAS2020, annual meeting of the European Astronomical Society during the symposium: "What have we learned from the observed population of gravitational wave sources?", Leiden, Netherlands. <span style="color: grey;">29 Jun.-3 Jul. 2020</span>
+  
+33. **Invited talk** at Mock Innsbruck, Innsbruck, Austria. <span style="color: grey;">10-13 Mar. 2020</span>

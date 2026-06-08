@@ -11,7 +11,7 @@ header:
     caption: "Tramonto dal rifugio Gniffetti (3 647 m)"
 ---
 
-Welcome! I am an astrophysicist exploring the evolution of gravitational-wave sources across cosmic time. Currently, I work as a researcher at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in L'Aquila (Italy).
+Hi! I'm an astrophysicist exploring the Universe through gravitational waves. I currently work as a postdoctoral researcher at the [Gran Sasso Science Institute (GSSI)](https://www.gssi.it/) in L'Aquila, Italy.
 
 In this website, you can find:
 
@@ -43,4 +43,4 @@ I have defended my PhD at the University of Padova (Italy), where I have worked 
 Before the PhD, I earned my [master thesis](https://thesis.unipd.it/handle/20.500.12608/22346) in Astronomy at the University of Padova (Italy), my bachelor thesis in Physics at the University of Trento (Italy), and my diploma at Liceo Scientifico "G. Fracastoro" in Verona.
 
 
-<sub>I created this website by following this  [guide](https://jayrobwilliams.com/posts/2020/06/academic-website/)</sub>
+<sub>This website was built following this [guide](https://jayrobwilliams.com/posts/2020/06/academic-website/).</sub>

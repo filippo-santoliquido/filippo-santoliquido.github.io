@@ -1,9 +1,1099 @@
----
-layout: archive
-title: "Talk map"
-permalink: /talkmap.html
-author_profile: true
----
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9b7be8e266c926761cfb2dd5599a33f0 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
 
-<p>This map is generated from a Jupyter Notebook file in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_talks/talkmap.ipynb">/_talks/talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.</p>
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9b7be8e266c926761cfb2dd5599a33f0" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9b7be8e266c926761cfb2dd5599a33f0 = L.map(
+                "map_9b7be8e266c926761cfb2dd5599a33f0",
+                {
+                    center: [30.0, 5.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 2,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c4c39de67c3cffbaa618f69c5363d019 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_c4c39de67c3cffbaa618f69c5363d019.addTo(map_9b7be8e266c926761cfb2dd5599a33f0);
+        
+    
+            var marker_cluster_45346ddd4460fd85071e73e9689b8846 = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var marker_6471df89a3515ccbc9e25be468a4104a = L.marker(
+                [48.2082, 16.3738],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_d978ad851a9f0b983dff5912845a0d9b = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_aac17d8a4909815e00e045858d6999d8 = $(`<div id="html_aac17d8a4909815e00e045858d6999d8" style="width: 100.0%; height: 100.0%;"><b>Vienna</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>23 Jan 2026 — Invited seminar, Marietta Blau Institute</li></ul></div>`)[0];
+                popup_d978ad851a9f0b983dff5912845a0d9b.setContent(html_aac17d8a4909815e00e045858d6999d8);
+            
+        
+
+        marker_6471df89a3515ccbc9e25be468a4104a.bindPopup(popup_d978ad851a9f0b983dff5912845a0d9b)
+        ;
+
+        
+    
+    
+            marker_6471df89a3515ccbc9e25be468a4104a.bindTooltip(
+                `<div>
+                     Vienna (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_59e279d70b893b276a44ca195ac4a71b = L.marker(
+                [46.0667, 11.1167],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_4152baa84108c7252e22cc61a8b53f75 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_b32122a97e5bd4f4446605ca9b494740 = $(`<div id="html_b32122a97e5bd4f4446605ca9b494740" style="width: 100.0%; height: 100.0%;"><b>Trento</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>4 Dec 2025 — Invited seminar, TIFPA</li></ul></div>`)[0];
+                popup_4152baa84108c7252e22cc61a8b53f75.setContent(html_b32122a97e5bd4f4446605ca9b494740);
+            
+        
+
+        marker_59e279d70b893b276a44ca195ac4a71b.bindPopup(popup_4152baa84108c7252e22cc61a8b53f75)
+        ;
+
+        
+    
+    
+            marker_59e279d70b893b276a44ca195ac4a71b.bindTooltip(
+                `<div>
+                     Trento (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_6024fa6b7d4b09d8c2052d6a7cc9e2b5 = L.marker(
+                [39.2904, -76.6122],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_e13a6a27c6b7b703749ef3c049487c42 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_b08f07df7d509dd4528b8dc016e29f40 = $(`<div id="html_b08f07df7d509dd4528b8dc016e29f40" style="width: 100.0%; height: 100.0%;"><b>Baltimore</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>10 Jun 2025 — Invited seminar, Johns Hopkins University</li></ul></div>`)[0];
+                popup_e13a6a27c6b7b703749ef3c049487c42.setContent(html_b08f07df7d509dd4528b8dc016e29f40);
+            
+        
+
+        marker_6024fa6b7d4b09d8c2052d6a7cc9e2b5.bindPopup(popup_e13a6a27c6b7b703749ef3c049487c42)
+        ;
+
+        
+    
+    
+            marker_6024fa6b7d4b09d8c2052d6a7cc9e2b5.bindTooltip(
+                `<div>
+                     Baltimore (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_6014b34d929ebb8bae1321376ed58643 = L.marker(
+                [44.4949, 11.3426],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_acb519f73964c1e0158ecf4019f603da = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_e2e73d57dacdc1dc53d0f9c5ca9f8267 = $(`<div id="html_e2e73d57dacdc1dc53d0f9c5ca9f8267" style="width: 100.0%; height: 100.0%;"><b>Bologna</b> (2 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>26–30 May 2025 — XV Einstein Telescope Symposium</li><li>11 Feb 2025 — Invited talk, GW-BO meeting, Univ. of Bologna</li></ul></div>`)[0];
+                popup_acb519f73964c1e0158ecf4019f603da.setContent(html_e2e73d57dacdc1dc53d0f9c5ca9f8267);
+            
+        
+
+        marker_6014b34d929ebb8bae1321376ed58643.bindPopup(popup_acb519f73964c1e0158ecf4019f603da)
+        ;
+
+        
+    
+    
+            marker_6014b34d929ebb8bae1321376ed58643.bindTooltip(
+                `<div>
+                     Bologna (2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_4dc5d1b4879a0135e0a45bdcf2a51320 = L.marker(
+                [39.2238, 9.1217],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_acc9b75b73faa615e1b2fa28862f99fb = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_b58b3f39ada94e1036435bc27ee19599 = $(`<div id="html_b58b3f39ada94e1036435bc27ee19599" style="width: 100.0%; height: 100.0%;"><b>Cagliari</b> (4 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>8–12 May 2023 — XIII ET Symposium</li><li>29 Nov 2024 — Invited seminar, INFN-Cagliari</li><li>24–25 Sep 2025 — 1st Sardinian GW Science mini-workshop (invited + panel)</li><li>16–20 Jun 2025 — EuCAIFCon 2025</li></ul></div>`)[0];
+                popup_acc9b75b73faa615e1b2fa28862f99fb.setContent(html_b58b3f39ada94e1036435bc27ee19599);
+            
+        
+
+        marker_4dc5d1b4879a0135e0a45bdcf2a51320.bindPopup(popup_acc9b75b73faa615e1b2fa28862f99fb)
+        ;
+
+        
+    
+    
+            marker_4dc5d1b4879a0135e0a45bdcf2a51320.bindTooltip(
+                `<div>
+                     Cagliari (4)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_fa0b47bf9851eb9571399532cfd2a99a = L.marker(
+                [-33.4489, -70.6693],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_7baef1ed21e317ead74ed806e3e348bc = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_28212393d6ff09886c035eb1734751b9 = $(`<div id="html_28212393d6ff09886c035eb1734751b9" style="width: 100.0%; height: 100.0%;"><b>Santiago</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>6 Aug 2024 — Invited seminar, Universidad Andrés Bello</li></ul></div>`)[0];
+                popup_7baef1ed21e317ead74ed806e3e348bc.setContent(html_28212393d6ff09886c035eb1734751b9);
+            
+        
+
+        marker_fa0b47bf9851eb9571399532cfd2a99a.bindPopup(popup_7baef1ed21e317ead74ed806e3e348bc)
+        ;
+
+        
+    
+    
+            marker_fa0b47bf9851eb9571399532cfd2a99a.bindTooltip(
+                `<div>
+                     Santiago (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_94e666e2454af128376db698ac21b8ee = L.marker(
+                [42.3498, 13.3995],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_4871016269cb75ad7f15b426b62d9b1f = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_d29b345ecf362dfcd47d8617793f852f = $(`<div id="html_d29b345ecf362dfcd47d8617793f852f" style="width: 100.0%; height: 100.0%;"><b>L&#x27;Aquila</b> (2 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>4–6 Oct 2023 — IV Gravi-Gamma-Nu workshop, GSSI</li><li>22 Mar 2024 — Invited seminar, INFN-LNGS</li></ul></div>`)[0];
+                popup_4871016269cb75ad7f15b426b62d9b1f.setContent(html_d29b345ecf362dfcd47d8617793f852f);
+            
+        
+
+        marker_94e666e2454af128376db698ac21b8ee.bindPopup(popup_4871016269cb75ad7f15b426b62d9b1f)
+        ;
+
+        
+    
+    
+            marker_94e666e2454af128376db698ac21b8ee.bindTooltip(
+                `<div>
+                     L'Aquila (2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_85755db350200d257c50359b91da50b4 = L.marker(
+                [45.4642, 9.19],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_d336fd704e4adc668f57ac9fddbb5fee = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_c7065f13a052d606fc0c69a131a8dc0f = $(`<div id="html_c7065f13a052d606fc0c69a131a8dc0f" style="width: 100.0%; height: 100.0%;"><b>Milan</b> (2 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>22 Sep 2022 — Invited seminar, Univ. of Milano-Bicocca</li><li>10–14 Jul 2023 — GWPOPNEXT, Univ. of Milano-Bicocca (panel)</li></ul></div>`)[0];
+                popup_d336fd704e4adc668f57ac9fddbb5fee.setContent(html_c7065f13a052d606fc0c69a131a8dc0f);
+            
+        
+
+        marker_85755db350200d257c50359b91da50b4.bindPopup(popup_d336fd704e4adc668f57ac9fddbb5fee)
+        ;
+
+        
+    
+    
+            marker_85755db350200d257c50359b91da50b4.bindTooltip(
+                `<div>
+                     Milan (2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_bb7ce2689f0c75c46eeee566d28ebdb0 = L.marker(
+                [48.8566, 2.3522],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_7d3237540ef430a54506b91dd534449a = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_ca1c8c814bbb8745107fcb7cee2760f9 = $(`<div id="html_ca1c8c814bbb8745107fcb7cee2760f9" style="width: 100.0%; height: 100.0%;"><b>Paris</b> (3 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>30 Mar–1 Apr 2021 — 4th GdR Ondes Gravitationnelles assembly</li><li>24 Jun 2021 — Invited talk, High Energy Group, IAP</li><li>20–24 Jun 2022 — Bayesian Deep Learning in Astrophysics</li></ul></div>`)[0];
+                popup_7d3237540ef430a54506b91dd534449a.setContent(html_ca1c8c814bbb8745107fcb7cee2760f9);
+            
+        
+
+        marker_bb7ce2689f0c75c46eeee566d28ebdb0.bindPopup(popup_7d3237540ef430a54506b91dd534449a)
+        ;
+
+        
+    
+    
+            marker_bb7ce2689f0c75c46eeee566d28ebdb0.bindTooltip(
+                `<div>
+                     Paris (3)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_eecabf34de577334e90f81b24fc81af8 = L.marker(
+                [43.7102, 7.262],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_674755fae2204b2d24f43d7e506f1651 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_d1d71f5ee968ed39b8ceb111e1d4339c = $(`<div id="html_d1d71f5ee968ed39b8ceb111e1d4339c" style="width: 100.0%; height: 100.0%;"><b>Nice</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>29 May–2 Jun 2022 — Invited talk, GW group, Observatoire de la Côte d&#x27;Azur</li></ul></div>`)[0];
+                popup_674755fae2204b2d24f43d7e506f1651.setContent(html_d1d71f5ee968ed39b8ceb111e1d4339c);
+            
+        
+
+        marker_eecabf34de577334e90f81b24fc81af8.bindPopup(popup_674755fae2204b2d24f43d7e506f1651)
+        ;
+
+        
+    
+    
+            marker_eecabf34de577334e90f81b24fc81af8.bindTooltip(
+                `<div>
+                     Nice (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_16eab001af4dfff97347960f836cf483 = L.marker(
+                [45.6495, 13.7768],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_94f450138810e5ddac4456d764cf4148 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_2031dcdd08a88f73f0446f93e15188ac = $(`<div id="html_2031dcdd08a88f73f0446f93e15188ac" style="width: 100.0%; height: 100.0%;"><b>Trieste</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>13 Apr 2021 — Invited talk, SISSA Astrophysics Colloquium</li></ul></div>`)[0];
+                popup_94f450138810e5ddac4456d764cf4148.setContent(html_2031dcdd08a88f73f0446f93e15188ac);
+            
+        
+
+        marker_16eab001af4dfff97347960f836cf483.bindPopup(popup_94f450138810e5ddac4456d764cf4148)
+        ;
+
+        
+    
+    
+            marker_16eab001af4dfff97347960f836cf483.bindTooltip(
+                `<div>
+                     Trieste (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_542b794fb0c43fc8ce2fbb9c3396a648 = L.marker(
+                [46.2044, 6.1432],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_90cd4af9b4749881eca5120829219146 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_0f2240f0113fdc0a783856f9149a35ef = $(`<div id="html_0f2240f0113fdc0a783856f9149a35ef" style="width: 100.0%; height: 100.0%;"><b>Geneva</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>5–8 May 2026 — AI for Gravitational Wave workshop, CERN</li></ul></div>`)[0];
+                popup_90cd4af9b4749881eca5120829219146.setContent(html_0f2240f0113fdc0a783856f9149a35ef);
+            
+        
+
+        marker_542b794fb0c43fc8ce2fbb9c3396a648.bindPopup(popup_90cd4af9b4749881eca5120829219146)
+        ;
+
+        
+    
+    
+            marker_542b794fb0c43fc8ce2fbb9c3396a648.bindTooltip(
+                `<div>
+                     Geneva (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_34cd8e0c0a2b0b4caaf10446e41d6680 = L.marker(
+                [43.716, 10.3966],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_88afaa9a4546916522dc1d5b09153386 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_a7307cf3676e8f38d14a8902e6623c0f = $(`<div id="html_a7307cf3676e8f38d14a8902e6623c0f" style="width: 100.0%; height: 100.0%;"><b>Pisa</b> (2 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>24–27 Oct 2023 — GraSP23, Univ. of Pisa (poster)</li><li>22–24 Apr 2026 — GRaviCon 2026 (invited, on behalf of LVK)</li></ul></div>`)[0];
+                popup_88afaa9a4546916522dc1d5b09153386.setContent(html_a7307cf3676e8f38d14a8902e6623c0f);
+            
+        
+
+        marker_34cd8e0c0a2b0b4caaf10446e41d6680.bindPopup(popup_88afaa9a4546916522dc1d5b09153386)
+        ;
+
+        
+    
+    
+            marker_34cd8e0c0a2b0b4caaf10446e41d6680.bindTooltip(
+                `<div>
+                     Pisa (2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_bafa3eed84f656a89c0a1c736e31cf1f = L.marker(
+                [41.9028, 12.4964],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_6add9f3c46adda51992067910e841c8b = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_fe43c203a568a4ebd397d31667df88a8 = $(`<div id="html_fe43c203a568a4ebd397d31667df88a8" style="width: 100.0%; height: 100.0%;"><b>Rome</b> (2 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>18–20 Feb 2026 — ET science workshop for ECRs (invited + panel)</li><li>16–20 Sep 2024 — Annual TEONGRAV meeting, Sapienza</li></ul></div>`)[0];
+                popup_6add9f3c46adda51992067910e841c8b.setContent(html_fe43c203a568a4ebd397d31667df88a8);
+            
+        
+
+        marker_bafa3eed84f656a89c0a1c736e31cf1f.bindPopup(popup_6add9f3c46adda51992067910e841c8b)
+        ;
+
+        
+    
+    
+            marker_bafa3eed84f656a89c0a1c736e31cf1f.bindTooltip(
+                `<div>
+                     Rome (2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_e25c61086766bd6d4024234ded5289bf = L.marker(
+                [46.7, 12.35],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_09a39371334217c55e2b181d88d6fe13 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_53ce3707b30ffc848aa06dd16c46d670 = $(`<div id="html_53ce3707b30ffc848aa06dd16c46d670" style="width: 100.0%; height: 100.0%;"><b>Sexten</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>26–30 Jan 2026 — GWFreeride</li></ul></div>`)[0];
+                popup_09a39371334217c55e2b181d88d6fe13.setContent(html_53ce3707b30ffc848aa06dd16c46d670);
+            
+        
+
+        marker_e25c61086766bd6d4024234ded5289bf.bindPopup(popup_09a39371334217c55e2b181d88d6fe13)
+        ;
+
+        
+    
+    
+            marker_e25c61086766bd6d4024234ded5289bf.bindTooltip(
+                `<div>
+                     Sexten (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_27b78f2f26f58428c9abe9a133313787 = L.marker(
+                [45.3378, 14.3053],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_5dda38b96d1375c8a5c401ecf7c79648 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_5f98932370be2abb1dabbda883c52654 = $(`<div id="html_5f98932370be2abb1dabbda883c52654" style="width: 100.0%; height: 100.0%;"><b>Opatija</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>11–14 Nov 2025 — 4th Einstein Telescope annual meeting</li></ul></div>`)[0];
+                popup_5dda38b96d1375c8a5c401ecf7c79648.setContent(html_5f98932370be2abb1dabbda883c52654);
+            
+        
+
+        marker_27b78f2f26f58428c9abe9a133313787.bindPopup(popup_5dda38b96d1375c8a5c401ecf7c79648)
+        ;
+
+        
+    
+    
+            marker_27b78f2f26f58428c9abe9a133313787.bindTooltip(
+                `<div>
+                     Opatija (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_01d0f031d61ae1fbdf2db497f0e0eaa7 = L.marker(
+                [40.3786, 9.6989],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_6e01cd0c5c103db627252dc12f2010a5 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_c17d402725a559a63e7be28edc80e4d0 = $(`<div id="html_c17d402725a559a63e7be28edc80e4d0" style="width: 100.0%; height: 100.0%;"><b>Orosei</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>6–10 Oct 2025 — Deep Space to Deep Earth geophysical workshop</li></ul></div>`)[0];
+                popup_6e01cd0c5c103db627252dc12f2010a5.setContent(html_c17d402725a559a63e7be28edc80e4d0);
+            
+        
+
+        marker_01d0f031d61ae1fbdf2db497f0e0eaa7.bindPopup(popup_6e01cd0c5c103db627252dc12f2010a5)
+        ;
+
+        
+    
+    
+            marker_01d0f031d61ae1fbdf2db497f0e0eaa7.bindTooltip(
+                `<div>
+                     Orosei (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_cb4d078ffb061a476d223f4ad164cecb = L.marker(
+                [41.824, -71.4128],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_8b3b403176a0ad3c5405e227ac98c844 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_ee2135fdc3ad52733f7fada847862978 = $(`<div id="html_ee2135fdc3ad52733f7fada847862978" style="width: 100.0%; height: 100.0%;"><b>Providence</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>2–6 Jun 2025 — SciML for GW Astronomy, ICERM (poster)</li></ul></div>`)[0];
+                popup_8b3b403176a0ad3c5405e227ac98c844.setContent(html_ee2135fdc3ad52733f7fada847862978);
+            
+        
+
+        marker_cb4d078ffb061a476d223f4ad164cecb.bindPopup(popup_8b3b403176a0ad3c5405e227ac98c844)
+        ;
+
+        
+    
+    
+            marker_cb4d078ffb061a476d223f4ad164cecb.bindTooltip(
+                `<div>
+                     Providence (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_b40dd909d301734818aef5a3211a29af = L.marker(
+                [52.1601, 4.497],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_dacb300951e31ff29046f558c1674e00 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_9f0d1e4bf81dcdf75ff110c07d975831 = $(`<div id="html_9f0d1e4bf81dcdf75ff110c07d975831" style="width: 100.0%; height: 100.0%;"><b>Leiden</b> (3 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>29 Jun–3 Jul 2020 — EAS2020, observed population of GW sources</li><li>28 Jun–2 Jul 2021 — EAS2021, Birth/Life/Death of Black Holes</li><li>14–18 Oct 2024 — O4 and beyond, Lorentz Center (talk + panel)</li></ul></div>`)[0];
+                popup_dacb300951e31ff29046f558c1674e00.setContent(html_9f0d1e4bf81dcdf75ff110c07d975831);
+            
+        
+
+        marker_b40dd909d301734818aef5a3211a29af.bindPopup(popup_dacb300951e31ff29046f558c1674e00)
+        ;
+
+        
+    
+    
+            marker_b40dd909d301734818aef5a3211a29af.bindTooltip(
+                `<div>
+                     Leiden (3)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d0bcb85c2e9ade0323af402dd581c80f = L.marker(
+                [50.6326, 5.5797],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_d1ecaf6dac64fb136b6e6644685d69fc = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_bfb7fd79f2bddf389d4eb1d50159c2ac = $(`<div id="html_bfb7fd79f2bddf389d4eb1d50159c2ac" style="width: 100.0%; height: 100.0%;"><b>Liège</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>15–19 Jul 2024 — 41st LIAC, Univ. de Liège</li></ul></div>`)[0];
+                popup_d1ecaf6dac64fb136b6e6644685d69fc.setContent(html_bfb7fd79f2bddf389d4eb1d50159c2ac);
+            
+        
+
+        marker_d0bcb85c2e9ade0323af402dd581c80f.bindPopup(popup_d1ecaf6dac64fb136b6e6644685d69fc)
+        ;
+
+        
+    
+    
+            marker_d0bcb85c2e9ade0323af402dd581c80f.bindTooltip(
+                `<div>
+                     Liège (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_e0af0304747fd72f1535239db2913088 = L.marker(
+                [39.1911, -106.8175],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_fd07a5487c25a7fa5134a48cbe3a41bb = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_62b25a53883e68f5b5fd0b584d6da7a2 = $(`<div id="html_62b25a53883e68f5b5fd0b584d6da7a2" style="width: 100.0%; height: 100.0%;"><b>Aspen</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>27 May–9 Jul 2024 — Fundamental Physics in the Era of Big Data &amp; ML</li></ul></div>`)[0];
+                popup_fd07a5487c25a7fa5134a48cbe3a41bb.setContent(html_62b25a53883e68f5b5fd0b584d6da7a2);
+            
+        
+
+        marker_e0af0304747fd72f1535239db2913088.bindPopup(popup_fd07a5487c25a7fa5134a48cbe3a41bb)
+        ;
+
+        
+    
+    
+            marker_e0af0304747fd72f1535239db2913088.bindTooltip(
+                `<div>
+                     Aspen (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_d97c363d17c00a3487e9c8670d700582 = L.marker(
+                [50.8514, 5.691],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_635801bf4c058536fee87a563c9c7b61 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_d855e1e99e88fb4b87918dfd296663e0 = $(`<div id="html_d855e1e99e88fb4b87918dfd296663e0" style="width: 100.0%; height: 100.0%;"><b>Maastricht</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>6–10 May 2024 — XIV ET Symposium</li></ul></div>`)[0];
+                popup_635801bf4c058536fee87a563c9c7b61.setContent(html_d855e1e99e88fb4b87918dfd296663e0);
+            
+        
+
+        marker_d97c363d17c00a3487e9c8670d700582.bindPopup(popup_635801bf4c058536fee87a563c9c7b61)
+        ;
+
+        
+    
+    
+            marker_d97c363d17c00a3487e9c8670d700582.bindTooltip(
+                `<div>
+                     Maastricht (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_e5e3774131748d158defd233f1139f8a = L.marker(
+                [39.4699, -0.3763],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_1175360cccaa6b005e02e89679d6d634 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_a019919e4e7988fea01ff61bc4a62f56 = $(`<div id="html_a019919e4e7988fea01ff61bc4a62f56" style="width: 100.0%; height: 100.0%;"><b>Valencia</b> (2 talks)<ul style='padding-left:1.1em;margin:4px 0'><li>27 Jun–1 Jul 2022 — EAS2022, GW &amp; Multi-messenger symposium</li><li>13–15 Nov 2023 — Fourth EPS Conference on Gravitation: Black Holes</li></ul></div>`)[0];
+                popup_1175360cccaa6b005e02e89679d6d634.setContent(html_a019919e4e7988fea01ff61bc4a62f56);
+            
+        
+
+        marker_e5e3774131748d158defd233f1139f8a.bindPopup(popup_1175360cccaa6b005e02e89679d6d634)
+        ;
+
+        
+    
+    
+            marker_e5e3774131748d158defd233f1139f8a.bindTooltip(
+                `<div>
+                     Valencia (2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_ad51853a85f427bef2246a5987ffdea1 = L.marker(
+                [40.7128, -74.006],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_8c360aa5f302b9e367f997bd8b306c66 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_6e97f721c102948ad06252df8cfb8b06 = $(`<div id="html_6e97f721c102948ad06252df8cfb8b06" style="width: 100.0%; height: 100.0%;"><b>New York</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>9–12 Apr 2022 — APS April Meeting 2022</li></ul></div>`)[0];
+                popup_8c360aa5f302b9e367f997bd8b306c66.setContent(html_6e97f721c102948ad06252df8cfb8b06);
+            
+        
+
+        marker_ad51853a85f427bef2246a5987ffdea1.bindPopup(popup_8c360aa5f302b9e367f997bd8b306c66)
+        ;
+
+        
+    
+    
+            marker_ad51853a85f427bef2246a5987ffdea1.bindTooltip(
+                `<div>
+                     New York (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_5cbd951be2968b779d017e74adf51ce4 = L.marker(
+                [45.4064, 11.8768],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_18a35a85d786f2ae6a2c754667122f3a = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_a5c4bbaa09dc36eafdb21ce3383525de = $(`<div id="html_a5c4bbaa09dc36eafdb21ce3383525de" style="width: 100.0%; height: 100.0%;"><b>Padova</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>2 Dec 2021 — GWday</li></ul></div>`)[0];
+                popup_18a35a85d786f2ae6a2c754667122f3a.setContent(html_a5c4bbaa09dc36eafdb21ce3383525de);
+            
+        
+
+        marker_5cbd951be2968b779d017e74adf51ce4.bindPopup(popup_18a35a85d786f2ae6a2c754667122f3a)
+        ;
+
+        
+    
+    
+            marker_5cbd951be2968b779d017e74adf51ce4.bindTooltip(
+                `<div>
+                     Padova (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_605c5260c5283af177547e70b58ff82a = L.marker(
+                [-37.8136, 144.9631],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_5d3b5348bf1c2d0e9bfa8c424006cf6e = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_071d14ce90a44927ad9113b517a0d04f = $(`<div id="html_071d14ce90a44927ad9113b517a0d04f" style="width: 100.0%; height: 100.0%;"><b>Melbourne</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>19–23 Jul 2021 — Amaldi14</li></ul></div>`)[0];
+                popup_5d3b5348bf1c2d0e9bfa8c424006cf6e.setContent(html_071d14ce90a44927ad9113b517a0d04f);
+            
+        
+
+        marker_605c5260c5283af177547e70b58ff82a.bindPopup(popup_5d3b5348bf1c2d0e9bfa8c424006cf6e)
+        ;
+
+        
+    
+    
+            marker_605c5260c5283af177547e70b58ff82a.bindTooltip(
+                `<div>
+                     Melbourne (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_894c71c62f39097eadd4dc3ecc38db24 = L.marker(
+                [-23.1896, -45.8841],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_657de05b63cb5a4109afb9d8ee9a1b98 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_4a03c3ebd13ab3f9d8a43b091ea93589 = $(`<div id="html_4a03c3ebd13ab3f9d8a43b091ea93589" style="width: 100.0%; height: 100.0%;"><b>São José dos Campos</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>24–28 May 2021 — 3rd Workshop on Chemical Abundances in Gaseous Nebulae</li></ul></div>`)[0];
+                popup_657de05b63cb5a4109afb9d8ee9a1b98.setContent(html_4a03c3ebd13ab3f9d8a43b091ea93589);
+            
+        
+
+        marker_894c71c62f39097eadd4dc3ecc38db24.bindPopup(popup_657de05b63cb5a4109afb9d8ee9a1b98)
+        ;
+
+        
+    
+    
+            marker_894c71c62f39097eadd4dc3ecc38db24.bindTooltip(
+                `<div>
+                     São José dos Campos (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_2a213a811cfc721f6dbcf1d5660438bd = L.marker(
+                [45.7117, 6.9536],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_79f819c7249f24efaf12d5eac47bff99 = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_5d4214a20e01a61a7c03d08b730fc129 = $(`<div id="html_5d4214a20e01a61a7c03d08b730fc129" style="width: 100.0%; height: 100.0%;"><b>La Thuile</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>9–11 Mar 2021 — 55th Rencontres de Moriond (poster)</li></ul></div>`)[0];
+                popup_79f819c7249f24efaf12d5eac47bff99.setContent(html_5d4214a20e01a61a7c03d08b730fc129);
+            
+        
+
+        marker_2a213a811cfc721f6dbcf1d5660438bd.bindPopup(popup_79f819c7249f24efaf12d5eac47bff99)
+        ;
+
+        
+    
+    
+            marker_2a213a811cfc721f6dbcf1d5660438bd.bindTooltip(
+                `<div>
+                     La Thuile (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_e28edafa63f1230f6f8620b13f729e25 = L.marker(
+                [47.2692, 11.4041],
+                {
+}
+            ).addTo(marker_cluster_45346ddd4460fd85071e73e9689b8846);
+        
+    
+        var popup_de40529b8c8ca103599584a7c14ad9ac = L.popup({
+  "maxWidth": 320,
+});
+
+        
+            
+                var html_d81c8b3cdeafd52164263118f1950bda = $(`<div id="html_d81c8b3cdeafd52164263118f1950bda" style="width: 100.0%; height: 100.0%;"><b>Innsbruck</b> (1 talk)<ul style='padding-left:1.1em;margin:4px 0'><li>10–13 Mar 2020 — Mock Innsbruck (invited)</li></ul></div>`)[0];
+                popup_de40529b8c8ca103599584a7c14ad9ac.setContent(html_d81c8b3cdeafd52164263118f1950bda);
+            
+        
+
+        marker_e28edafa63f1230f6f8620b13f729e25.bindPopup(popup_de40529b8c8ca103599584a7c14ad9ac)
+        ;
+
+        
+    
+    
+            marker_e28edafa63f1230f6f8620b13f729e25.bindTooltip(
+                `<div>
+                     Innsbruck (1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            marker_cluster_45346ddd4460fd85071e73e9689b8846.addTo(map_9b7be8e266c926761cfb2dd5599a33f0);
+        
+</script>
+</html>
