@@ -47,10 +47,13 @@ header:
 
 # Outreach
 
-* June 11, 2026, [*Space and Stars* GSSI outreach programme in collaboration with Scuola Superiore Meridionale](https://www.gssi.it/seminars/seminars-and-events-2026/item/26231-stelle-e-spazio-orientamento-al-gssi). Fifty high-school students selected from across Italy visited GSSI. Together with Dr. Cristiano Ugolini and Matteo Schulz, I gave a hands-on outreach lecture on the basics of gravitational-wave detection with a Michelson interferometer.
+* June 11, 2026, [*Space and Stars* GSSI outreach programme in collaboration with Scuola Superiore Meridionale](https://www.gssi.it/seminars/seminars-and-events-2026/item/26231-stelle-e-spazio-orientamento-al-gssi). Fifty high-school students selected from across Italy visited GSSI. Together with Dr. Cristiano Ugolini and Matteo Schulz, I gave a hands-on outreach lecture on the basics of gravitational-wave detection with a Michelson interferometer. 
 
-![Outreach lecture on interferometry for high-school students at GSSI](../assets/images/outreach_ifo.jpeg)
-*Demonstrating the basics of gravitational-wave detection with a Michelson interferometer kit during the "Space and Stars" outreach programme at GSSI. From left to right: Matteo Ballelli, Filippo Santoliquido, Prof. Franco Raimondi (event organiser) and Matteo Schulz.*
+<figure style="width: 70%; margin: 0 auto;">
+  <img src="../assets/images/outreach_ifo.jpeg" style="width: 100%;">
+  <figcaption style="font-size: 0.85em; text-align: left;">Demonstrating the basics of gravitational-wave detection with a Michelson interferometer kit during the "Space and Stars" outreach programme at GSSI. From left to right: Matteo Ballelli, Filippo Santoliquido, Prof. Franco Raimondi (event organiser) and Matteo Schulz.</figcaption>
+</figure>
+
 
 * May 30, 2026, [*Periferie creative*](https://www.gssi.it/seminars/seminars-and-events-2026/item/26194-periferie-creative), a project organized by the [Orbeat collective](https://www.instagram.com/orbeat.collective/) and GSSI, aimed at regenerating local urban spaces such as neighborhood parks into inclusive, participatory places. As part of the event, we brought a solar telescope and a Michelson interferometer to introduce the basics of gravitational-wave detection.
 
@@ -60,7 +63,11 @@ header:
 
 * Sep 27, 2024, **volunteer at [SHARPER24](https://www.sharper-night.it/sharper-laquila/)**
 
-* Sep. 19, 2024, **Tutte le direzioni della luce**. The stunning island of [Sant'Antioco](https://maps.app.goo.gl/tmPRmhxjFFqv5B1d9) provided the perfect setting for our discussions on the [Sun](/assets/images/SantAntioco/SantAntioco_sole.pdf) and [Moon](/assets/images/SantAntioco/SantAntioco_luna.pdf). The event was organised by [Ottovolante Sulcis](https://ottovolantesulcis.it/) in collaboration with [IDeAS](https://linktr.ee/ideas_1794). <img src="/assets/images/SantAntioco/tutteledirezionidellaluce.jpg"  width="400" height="150">
+* Sep. 19, 2024, **Tutte le direzioni della luce**. The stunning island of [Sant'Antioco](https://maps.app.goo.gl/tmPRmhxjFFqv5B1d9) provided the perfect setting for our discussions on the [Sun](/assets/images/SantAntioco/SantAntioco_sole.pdf) and [Moon](/assets/images/SantAntioco/SantAntioco_luna.pdf). The event was organised by [Ottovolante Sulcis](https://ottovolantesulcis.it/) in collaboration with [IDeAS](https://linktr.ee/ideas_1794). 
+
+<p style="text-align: center;">
+    <img src="/assets/images/SantAntioco/tutteledirezionidellaluce.jpg"  width="60%" height="150">
+</p>
 
 * Outreach lectures on Physics and Astrophysics to high school classes:
   
@@ -69,10 +76,12 @@ header:
 
 * An outreach article presenting the research I conducted during my PhD was published in the [Giornale di Astronomia, Vol. 50](https://giornaleastronomia.difa.unibo.it/). <!-- You can donwloand a [copy](/assets/images/premioTacchini23.pdf) of this article *(only in Italian)*.-->  
 
-* Sep. 29, 2023, **volunteer at [SHARPER23](https://www.sharper-night.it/sharper-laquila/)** <img src="/assets/images/sharper_site.jpg"  width="400" height="150">
-  
-  <br>
-  <em>Everything ready for the kilonova esperiment :) <em>
+* Sep. 29, 2023, **volunteer at [SHARPER23](https://www.sharper-night.it/sharper-laquila/)** 
+
+<figure style="width: 70%; margin: 0 auto;">
+  <img src="/assets/images/sharper_site.jpg" style="width: 100%;">
+  <figcaption style="font-size: 0.85em; text-align: left;">Everything ready for the kilonova esperiment 🤩</figcaption>
+</figure>
 
 * Nov. 27, 2020, **Night of Researchers**. The 2020 Night of Researchers was followed by more than 500 people. I briefly introduced the gravitational wave topic and gave some short updates of my research work. At this [link](https://www.youtube.com/watch?v=aA_X20AdT0s) you can find the full recording. 
 
