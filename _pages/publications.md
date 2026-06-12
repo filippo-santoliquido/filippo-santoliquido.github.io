@@ -16,12 +16,14 @@ You can find an updated list of my pubblications in the [Astrophysics Data Syste
 
 # Publication summary 
 
-<p align="center">
-  <img src="../assets/images/publications_per_year.png" alt="Publications per year by category" width="600">
-</p>
+<figure style="width: 70%; margin: 0 auto;">
+  <img src="../assets/images/publications_per_year.png" alt="" style="width: 100%;">
+  <figcaption style="font-size: 0.85em; text-align: left;">Number of publications per year (2019–2025), split into first-author papers (blue), short-author-list papers (green), and large-collaboration papers (orange). Dashed vertical lines mark the start of joint involvement in the Einstein Telescope collaboration (July 2022) and the LIGO–Virgo–KAGRA collaboration (September 2023)..</figcaption>
+</figure>
 
-<sub>Number of publications per year (2019–2025), split into first-author papers, short-author-list papers, and large-collaboration papers. Dashed vertical lines mark the start of joint involvement in the Einstein Telescope collaboration (July 2022) and the LIGO–Virgo–KAGRA collaboration (September 2023).</sub>
+
 <div style="width: 50%;">
+
 
 <table>
   <tr>
