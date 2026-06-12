@@ -39,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.anchor-link {
+  opacity: 0;
+  font-size: 0.8em;
+  text-decoration: none;
+  color: inherit;
+  margin-left: 0.3em;
+  transition: opacity 0.15s;
+}
+
+h1:hover .anchor-link,
+h2:hover .anchor-link,
+h3:hover .anchor-link,
+h4:hover .anchor-link {
+  opacity: 0.5;
+}
+
+.anchor-link:hover {
+  opacity: 1 !important;
+}
